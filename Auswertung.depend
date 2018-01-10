@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1515599124 source:g:\schule\jufo\auswertung\src\sensordata.cpp
+	"SensorData.h"
+
+1515599117 g:\schule\jufo\auswertung\include\sensordata.h
+	"MathUtils.h"
+	<cstdint>
+
+1515598105 source:g:\schule\jufo\auswertung\main.cpp
+	<iostream>
+	"SensorData.h"
+	"SensorRecoding.h"
+	<fstream>
+	<string>
+	<cstring>
+
+1515598942 source:g:\schule\jufo\auswertung\src\sensorrecoding.cpp
+	"SensorRecoding.h"
+	<string>
+	"MadgwickAHRS.h"
+	"MathUtils.h"
+	<thread>
+	<unistd.h>
+
+1515594472 g:\schule\jufo\auswertung\include\sensorrecoding.h
+	<vector>
+	<iostream>
+	<fstream>
+	"SensorData.h"
+
+1515598922 source:g:\schule\jufo\auswertung\src\mathutils.cpp
+	"MathUtils.h"
+
+1515598124 g:\schule\jufo\auswertung\include\mathutils.h
+	<math.h>
+	<iostream>
+
+1515597798 g:\schule\jufo\auswertung\include\madgwickahrs.h
+
+1515597896 source:g:\schule\jufo\auswertung\src\madgwickahrs.c
+	"MadgwickAHRS.h"
+	<math.h>
+
+1515577289 source:f:\schule\jufo\auswertung\src\madgwickahrs.c
+	"MadgwickAHRS.h"
+	<math.h>
+
+1515444168 f:\schule\jufo\auswertung\include\madgwickahrs.h
+
+1515443988 source:f:\schule\jufo\auswertung\src\mathutils.cpp
+	"MathUtils.h"
+
+1515443953 f:\schule\jufo\auswertung\include\mathutils.h
+	<math.h>
+
+1513716122 source:f:\schule\jufo\auswertung\src\sensordata.cpp
+	"SensorData.h"
+
+1515362552 f:\schule\jufo\auswertung\include\sensordata.h
+	"MathUtils.h"
+	<cstdint>
+
+1515577059 source:f:\schule\jufo\auswertung\src\sensorrecoding.cpp
+	"SensorRecoding.h"
+	<string>
+	"MadgwickAHRS.h"
+	"MathUtils.h"
+
+1515360650 f:\schule\jufo\auswertung\include\sensorrecoding.h
+	<vector>
+	<iostream>
+	<fstream>
+	"SensorData.h"
+
+1515577111 source:f:\schule\jufo\auswertung\main.cpp
+	<iostream>
+	"SensorData.h"
+	"SensorRecoding.h"
+	<fstream>
+	<string>
+	<cstring>
+
